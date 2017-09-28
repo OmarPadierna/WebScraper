@@ -12,3 +12,5 @@ Because of this the process of downloading the images and scraping the data was 
 Selenium would then travel to the latest downloaded image and resume the task from there. 
 
 This code has not been refactored and it was meant to be run by me (my friend only wanted the json file and the image). Since I understood what the code did exactly and modified it on the fly as I encountered errors, there is a high chance that it will not work out of the box. 
+
+The general logic of the code and how each python file is related (and their order of execution) can be found in the image file. 
